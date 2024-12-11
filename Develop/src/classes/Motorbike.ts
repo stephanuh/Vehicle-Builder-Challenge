@@ -57,7 +57,7 @@ constructor(
   // TODO: The details should include the VIN, make, model, year, weight, top speed, color, and wheels
   override printDetails(): void {
     //super.printDetails();
-    
+
      console.log(`Motorbike Details:`);
      console.log(`VIN: ${this.vin}`);
      console.log(`Color: ${this.color}`);
@@ -68,11 +68,11 @@ constructor(
      console.log(`Top speed: ${this.topSpeed}mph`);
       
 
-      console.log(
-        'Wheel 1: ${this.wheels[0].getDiameter} inch with a  ${this.wheels[0].getTireBrand} tire'
+     console.log(
+        `Wheel 1: ${this.wheels[0].getDiameter} inch with a  ${this.wheels[0].getTireBrand} tire`
       );
-      console.log(
-        'Wheel 2: ${this.wheels[1].getDiameter} inch with a  ${this.wheels[1].getTireBrand} tire' 
+     console.log(
+        `Wheel 2: ${this.wheels[1].getDiameter} inch with a  ${this.wheels[1].getTireBrand} tire` 
       );
   }
 }
