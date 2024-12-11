@@ -272,17 +272,29 @@ class Cli {
         // TODO: push the motorbike to the vehicles array
         // TODO: set the selectedVehicleVin to the vin of the motorbike
         // TODO: perform actions on the motorbike
+        
       });
+      
   }
+  
 
+  
   // method to find a vehicle to tow
+  
   // TODO: add a parameter to accept a truck object
+  
   findVehicleToTow(): void {
+    
     inquirer
+    
       .prompt([
+        
         {
+          
           type: 'list',
+          
           name: 'vehicleToTow',
+          
           message: 'Select a vehicle to tow',
           choices: this.vehicles.map((vehicle) => {
             return {
