@@ -1,71 +1,32 @@
-# Vehicle-Builder-Challenge
+# Vehicle-Builder-Challenge 🏍️
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is a command-line application that allows users to create and manage different types of vehicles: **Cars**, **Trucks**, **Motorbikes**. Users can interact with the application to input vehicle's details, color, make, model, year, and other vehicles-specific attributes.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+The project was a great learning experience and it demonstrates how **OOP**( Object Oriented Programming) works.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Simply go to **Terminal** and to start the command-line application you need to run with "``npm start``". This will begin the application and first give you the option to "Create a new vehicle"or "Select an existing vehicle". once selected you will build your vehicle. 🚗
 
 ## Usage
 
 Click [here]() to watch video demonstration.
 
+#### The video should demonstrate:
+- How user invokes the application from the command-line ``npm start``.
+- How users can interact with the application and provide responses from the prompt.
 
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+This application will also demonstrate if the car is too heavy to be towed or if any vehicle can do a wheelie or tow other vehicles.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+ [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) statements has been used in this application.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+ Typrscript was also used to keep the code orginized and well presented.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)⠀⠀
