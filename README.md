@@ -13,20 +13,21 @@ Simply go to **Terminal** and to start the command-line application you need to 
 
 ## Usage
 
-Click [here]() to watch video demonstration.
+Click [here](https://drive.google.com/file/d/1WxE5JHsm8Sem477YuTOhLyF8FutZaF5F/view) to watch video demonstration.
 
 #### The video should demonstrate:
+- The functionality of the Vehicle Builder.
 - How user invokes the application from the command-line ``npm start``.
-- How users can interact with the application and provide responses from the prompt.
-
-This application will also demonstrate if the car is too heavy to be towed or if any vehicle can do a wheelie or tow other vehicles.
+- How users can enter responses to all the prompts in the application.
+- This application will also demonstrate if any vehicle can do a wheelie or tow other vehicles.
 
 ## Credits
 
  [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) statements has been used in this application.
 
- Typrscript was also used to keep the code orginized and well presented.
+ **Typrscript** and **Inquirer** was also used to keep the code orginized and well presented.
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)⠀⠀
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)⠀
+⠀
